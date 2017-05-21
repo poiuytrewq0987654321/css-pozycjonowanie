@@ -20,3 +20,17 @@ html {
 #em{
     width:20em;
 }
+#ex{
+   width:10ex; 
+}
+#rem{
+    width:5rem;
+}
+#procent{
+    font-size:250%;
+    width:20rem;
+}
+#vw{
+    font-size:1.4vw;
+    width:10rem;
+}
